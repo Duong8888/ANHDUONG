@@ -59,7 +59,7 @@ button:hover{
         background-repeat: no-repeat;
         background-position: center center;
         background-size:auto 100% ;
-        background-image: url(http://breakwhile.xyz/images/avatar.jpg);
+        background-image: url('http://breakwhile.xyz/images/avatar.jpg');
     }
     h1{
         color: #fff;
